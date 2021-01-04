@@ -1,0 +1,5 @@
+class ananthu2{
+    public static void main(String[] args){
+       System.out.println("Ananthu's second program");
+    }
+}
